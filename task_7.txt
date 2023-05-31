@@ -1,0 +1,4 @@
+Кластеры:
+Game - запуск игры, создание уровня, элементы: GameRender, Level
+Player - управление змеей и ее взаимодействием с окружающим миром, элементы: Snake, Control, ObjectModify, ColisionObjects
+Screen - 'экран' пользователя, элементы: Field, Food, FoodCreator
